@@ -1,14 +1,28 @@
 # goole_colab_guide
-📁 colab-guide/
- │
- ├─ README.md
- ├─ 01_basic/
- │   └─ intro.ipynb
- ├─ 02_features/
- │   └─ drive_mount.ipynb
- ├─ 03_examples/
- │   ├─ pandas_example.ipynb
- │   └─ tf_gpu_example.ipynb
- └─ resources/
-    └─ colab_shortcuts.md
+# 구글 코랩 완전 가이드
+
+> Google Colaboratory(Colab)은 클라우드에서 파이썬 코드를 작성하고 실행할 수 있는 Jupyter 노트북 환경입니다.  
+> 머신러닝, 데이터 분석, 교육용으로 많이 사용됩니다.
+
+---
+
+## 목차
+
+1. [구글 코랩이란?](#1-구글-코랩이란)
+2. [구글 코랩 시작하기](#2-구글-코랩-시작하기)
+3. [주요 기능 소개](#3-주요-기능-소개)
+4. [유용한 팁과 단축키](#4-유용한-팁과-단축키)
+5. [자주 묻는 질문(FAQ)](#5-자주-묻는-질문faq)
+6. [참고 자료](#6-참고-자료)
+
+---
+
+## 1. 구글 코랩이란?
+
+| 항목       | 설명                                              |
+| ---------- | ------------------------------------------------- |
+| 서비스명   | Google Colaboratory (Colab)                       |
+| 형태       | 클라우드 기반 Jupyter 노트북                      |
+| 주요 목적  | 머신러닝, 데이터 분석, 교육
+
 
